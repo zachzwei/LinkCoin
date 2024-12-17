@@ -1,0 +1,6 @@
+usr/local/bin/linkcoin-qt usr/bin
+share/pixmaps/linkcoin32.xpm usr/share/pixmaps
+share/pixmaps/linkcoin16.xpm usr/share/pixmaps
+share/pixmaps/linkcoin128.png usr/share/pixmaps
+debian/linkcoin-qt.desktop usr/share/applications
+debian/linkcoin-qt.protocol usr/share/kde4/services/

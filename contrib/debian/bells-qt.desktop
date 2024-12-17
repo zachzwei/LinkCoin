@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=LinkCoin Core
+Comment=Connect to the LinkCoin P2P Network
+Comment[de]=Verbinde mit dem LinkCoin peer-to-peer Netzwerk
+Comment[fr]=LinkCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=LinkCoin, eşten eşe kriptografik sanal para birimi
+Exec=linkcoin-qt %u
+Terminal=false
+Type=Application
+Icon=linkcoin128
+MimeType=x-scheme-handler/linkcoin;
+Categories=Office;Finance;

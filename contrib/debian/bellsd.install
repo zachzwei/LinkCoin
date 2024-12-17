@@ -1,0 +1,2 @@
+usr/local/bin/linkcoind usr/bin
+usr/local/bin/linkcoin-cli usr/bin
